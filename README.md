@@ -110,7 +110,7 @@ src/
 npm run dev
 ```
 
-Open http://localhost:5174
+Open http://localhost:3000
 
 ### User Flow
 
