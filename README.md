@@ -16,7 +16,7 @@ A modern, type-safe appointment scheduling application built with Vue 3, TypeScr
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/radicaljhonpaul/appointment_scheduler.git
    cd appointment_scheduler
    ```
 
