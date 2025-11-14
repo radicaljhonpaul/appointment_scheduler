@@ -4,7 +4,7 @@ import { RouterLink, RouterView, useRoute } from 'vue-router'
 import { useAppointmentStore } from '@/stores/appointments'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
-import { FileStackIcon, Stethoscope, ViewIcon } from 'lucide-vue-next'
+import { FileStackIcon, Stethoscope } from 'lucide-vue-next'
 
 const route = useRoute()
 const store = useAppointmentStore()
